@@ -1,7 +1,10 @@
 ## Gallery app
 
-> React native application
+Mobile application.
 
+## Description
+
+The project is designed to demonstrate knowledge and practical skills in the framework for developing mobile applications React Native, data fetching with native JavaScript lib Fetch API, managing application state with Redux.
 
 ### Demo
 
@@ -9,9 +12,9 @@
 
 <div>
  <p>
-<img src="demo-images/image-1.png" width="290px">
-<img src="demo-images/image-2.png" width="290px">
-<img src="demo-images/image-3.png" width="290px">
+<img src="demo-images/image-1.png" width="280px">
+<img src="demo-images/image-2.png" width="280px">
+<img src="demo-images/image-3.png" width="280px">
   </p>
 </div>
 
@@ -20,8 +23,14 @@
 
 #### Front-end
 
-- [React Native](https://reactnative.dev/) | A JavaScript library for building mobile applications.
-- [Redux](https://redux.js.org/) | A Predictable State Container for JS Apps.
+- React Native
+- Redux && Redux Thunk
+- React Router Native
+- Fetch API
+
+#### Backend
+
+- Unsplash Image API 
 
 ## Getting started
 
