@@ -32,6 +32,11 @@ The project is designed to demonstrate knowledge and practical skills in the fra
 
 - Unsplash Image API 
 
+### Features 
+
+- Browsing images from Unsplash Image API 
+- Loading new images by scrolling the page
+
 ## Getting started
 
 #### Setting up the development environment
